@@ -1,5 +1,4 @@
 # Post de Instagram de EduardoHernandezGuzman
-Este es un pequeño proyecto que he desarrollado mientras estudio en 4GEEKS.
 
 ## Un poco de información
 Primer proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
